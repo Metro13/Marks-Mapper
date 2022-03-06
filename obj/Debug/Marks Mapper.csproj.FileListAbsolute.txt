@@ -1,0 +1,7 @@
+C:\Users\808ZHEN\source\repos\Marks Mapper\Marks Mapper\bin\Debug\Marks Mapper.exe.config
+C:\Users\808ZHEN\source\repos\Marks Mapper\Marks Mapper\bin\Debug\Marks Mapper.exe
+C:\Users\808ZHEN\source\repos\Marks Mapper\Marks Mapper\bin\Debug\Marks Mapper.pdb
+C:\Users\808ZHEN\source\repos\Marks Mapper\Marks Mapper\obj\Debug\Marks Mapper.csprojAssemblyReference.cache
+C:\Users\808ZHEN\source\repos\Marks Mapper\Marks Mapper\obj\Debug\Marks Mapper.csproj.CoreCompileInputs.cache
+C:\Users\808ZHEN\source\repos\Marks Mapper\Marks Mapper\obj\Debug\Marks Mapper.exe
+C:\Users\808ZHEN\source\repos\Marks Mapper\Marks Mapper\obj\Debug\Marks Mapper.pdb
